@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646732590569",
+    "project_id": "medhindustan-cf5de",
+    "storage_bucket": "medhindustan-cf5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646732590569:android:bcef7e939f9d975a832f78",
+        "android_client_info": {
+          "package_name": "com.man.medhindustan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646732590569-sk5p35dljmrpjql098svlicjiagqdlh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedmxWrYCfW7_83OBnFK6DFU8ztaDTtus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646732590569-sk5p35dljmrpjql098svlicjiagqdlh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

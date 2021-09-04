@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/notification"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_notification"
+        android:title="Upload Prescription"
+        />
+    <item
+        android:id="@+id/cart"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_cart"
+        android:title="Search &amp; Buy Medicine"
+        />
+
+</menu>

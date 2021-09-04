@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MedHindustan</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="indication">N95 respirators and surgical masks are examples of
+personal protective equipment that are used to
+protect the wearer from airborne particles and
+from liquid contaminating the face</string>
+    <string name="reach_to_us">Reach to us : New Hindustan Medical, Phool Bagan More,Pandaveshwar, West Bangal</string>
+    <string name="ondes">
+        Find our most Popular,Seasonal and Top Selling \nmedical products. \n(Note:Attach Prescription if required.)
+    </string>
+    <string name="otc_wellness"><![CDATA[OTC & Wellness Product]]></string>
+    <string name="upload_prescription">Upload Prescription</string>
+    <string name="des_up_pres">Have a problem with searching medical products? \nUpload medicine prescription and relax \nWe will get you medical products at home</string>
+    <string name="offers">Offers</string>
+    <string name="des_dis">Get discount offers on medical products.</string>
+    <string name="ask_our_pharmacist">Ask our Pharmacist</string>
+    <string name="des_ask_phar">Have a question regarding medical products? \nAsk our Pharmacist.</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="home_des">Search medicine by name or upload prescriptioin to \nget medical products at home. \n(Note:Attach Prescription if required.)</string>
+
+</resources>
